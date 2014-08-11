@@ -1,0 +1,98 @@
+[debug (14-8-3 20:10:25)] RunSetup: SikuliX Setup Build: 1.0.1 12NOV2013120000
+[debug (14-8-3 20:10:25)] RunSetup: ... starting with no args given
+[debug (14-8-3 20:10:25)] RunSetup: syspath: G:\MyDD1\work\UItest\sikuli\libs
+[debug (14-8-3 20:10:25)] RunSetup: syspath: C:\Program Files (x86)\AMD APP\bin\x86_64
+[debug (14-8-3 20:10:25)] RunSetup: syspath: C:\Program Files (x86)\AMD APP\bin\x86
+[debug (14-8-3 20:10:25)] RunSetup: syspath: C:\Perl64\site\bin
+[debug (14-8-3 20:10:25)] RunSetup: syspath: C:\Perl64\bin
+[debug (14-8-3 20:10:25)] RunSetup: syspath: C:\Program Files\Common Files\Microsoft Shared\Windows Live
+[debug (14-8-3 20:10:25)] RunSetup: syspath: C:\Program Files (x86)\Common Files\Microsoft Shared\Windows Live
+[debug (14-8-3 20:10:25)] RunSetup: syspath: C:\Windows\system32
+[debug (14-8-3 20:10:25)] RunSetup: syspath: C:\Windows
+[debug (14-8-3 20:10:25)] RunSetup: syspath: C:\Windows\System32\Wbem
+[debug (14-8-3 20:10:25)] RunSetup: syspath: C:\Windows\System32\WindowsPowerShell\v1.0\
+[debug (14-8-3 20:10:25)] RunSetup: syspath: C:\Program Files (x86)\ATI Technologies\ATI.ACE\Core-Static
+[debug (14-8-3 20:10:25)] RunSetup: syspath: C:\Program Files (x86)\Common Files\Thunder Network\KanKan\Codecs
+[debug (14-8-3 20:10:25)] RunSetup: syspath: C:\Program Files (x86)\Microsoft SQL Server\100\Tools\Binn\
+[debug (14-8-3 20:10:25)] RunSetup: syspath: C:\Program Files\Microsoft SQL Server\100\Tools\Binn\
+[debug (14-8-3 20:10:25)] RunSetup: syspath: C:\Program Files\Microsoft SQL Server\100\DTS\Binn\
+[debug (14-8-3 20:10:25)] RunSetup: syspath: C:\Program Files (x86)\Windows Live\Shared
+[debug (14-8-3 20:10:25)] RunSetup: syspath: C:\Program Files (x86)\IDM Computer Solutions\UltraEdit-32
+[debug (14-8-3 20:10:25)] RunSetup: syspath: C:\Program Files (x86)\Microsoft ASP.NET\ASP.NET Web Pages\v1.0\
+[debug (14-8-3 20:10:25)] RunSetup: syspath: C:\Program Files (x86)\Windows Kits\8.0\Windows Performance Toolkit\
+[debug (14-8-3 20:10:25)] RunSetup: syspath: C:\Program Files\Microsoft SQL Server\110\Tools\Binn\
+[debug (14-8-3 20:10:25)] RunSetup: syspath: C:\Program Files\Microsoft\Web Platform Installer\
+[debug (14-8-3 20:10:25)] RunSetup: syspath: C:\Program Files (x86)\Microsoft SDKs\TypeScript\0.9\
+[debug (14-8-3 20:10:25)] RunSetup: syspath: F:\Win7\Program Files\nodejs\
+[debug (14-8-3 20:10:25)] RunSetup: syspath: C:\Users\aa64\AppData\Roaming\npm
+[debug (14-8-3 20:10:25)] RunSetup: user home: C:\Users\aa64
+[debug (14-8-3 20:10:30)] RunSetup: RunningSystem: Windows 6.1
+[debug (14-8-3 20:10:30)] RunSetup: parent of jar/classes: G:/MyDD1/work/UItest/sikuli/
+[debug (14-8-3 20:10:30)] RunSetup: RunningJava: Java 7 (x86) 1.7.0_65-b20
+[debug (14-8-3 20:10:30)] RunSetup: ... could not detect whether Sikuli is used the first time on this system
+[debug (14-8-3 20:10:55)] FileManager: Downloading 1.0.1-1.jar having 12942 KB
+[debug (14-8-3 20:11:42)] FileManager: downloaded 12942 KB to G:\MyDD1\work\UItest\sikuli\1.0.1-1.jar
+[debug (14-8-3 20:11:42)] FileManager: download time: 44
+[debug (14-8-3 20:11:45)] RunSetup: Download ended
+[debug (14-8-3 20:11:45)] RunSetup: adding native stuff to sikuli-ide.jar
+[debug (14-8-3 20:11:45)] FileManager: buildJar: G:\MyDD1\work\UItest\sikuli\sikuli-temp.jar
+[debug (14-8-3 20:11:45)] FileManager: buildJar: adding: G:\MyDD1\work\UItest\sikuli\sikuli-ide.jar
+[debug (14-8-3 20:11:49)] FileManager: buildJar: adding: G:\MyDD1\work\UItest\sikuli\sikuli-setup.jar
+[debug (14-8-3 20:11:53)] FileManager: buildJar: completed
+[debug (14-8-3 20:11:53)] ResourceLoaderBasic: export: Trying to access package
+[debug (14-8-3 20:11:53)] ResourceLoaderBasic: export: Accessing jar: file:/G:/MyDD1/work/UItest/sikuli/sikuli-setup.jar
+[debug (14-8-3 20:11:54)] ResourceLoaderBasic: export: Found 1 Files in Commands/windows/runIDE.cmd
+[debug (14-8-3 20:11:54)] RunSetup: trying to set up the environment
+[debug (14-8-3 20:11:54)] ResourceLoaderBasic: check: we are running on arch: x86
+[debug (14-8-3 20:11:54)] ResourceLoaderBasic: check: using Java at: C:/Program Files (x86)/Java/jre7/
+[error (14-8-3 20:11:54)] ResourceLoaderBasic: check: No valid libs path available until now!
+[action (14-8-3 20:11:54)] ResourceLoaderBasic: check: Please wait! Trying to extract libs to jar parent folder: G:/MyDD1/work/UItest/sikuli/
+[debug (14-8-3 20:11:54)] ResourceLoaderBasic: extractLibs: Accessing jar: file:/G:/MyDD1/work/UItest/sikuli/sikuli-setup.jar
+[debug (14-8-3 20:11:54)] ResourceLoaderBasic: extractLibs: Found 14 Files in META-INF/libs/windows/libs32/
+[debug (14-8-3 20:11:55)] ResourceLoaderBasic: export: Trying to access package
+[debug (14-8-3 20:11:55)] ResourceLoaderBasic: export: Accessing jar: file:/G:/MyDD1/work/UItest/sikuli/sikuli-setup.jar
+[debug (14-8-3 20:11:55)] ResourceLoaderBasic: export: Found 0 Files in META-INF/libs/tessdata
+[debug (14-8-3 20:11:55)] ResourceLoaderBasic: checkLibsDir: G:\MyDD1\work\UItest\sikuli\libs
+[debug (14-8-3 20:11:55)] ResourceLoaderBasic: loadLib: WinUtil
+[debug (14-8-3 20:11:55)] ResourceLoaderBasic: loadLib: Found: WinUtil
+[debug (14-8-3 20:11:55)] ResourceLoaderBasic: loadLib: Now loaded: WinUtil
+[debug (14-8-3 20:11:55)] ResourceLoaderBasic: checkLibsDir: Using libs at: G:\MyDD1\work\UItest\sikuli\libs
+[debug (14-8-3 20:11:55)] ResourceLoaderBasic: export: Using this as OCR directory (tessdata) too
+[debug (14-8-3 20:12:00)] RunSetup: Trying to run functional test: running Jython statements via SikuliScript
+[debug (14-8-3 20:12:00)] SikuliX: before adding to classpath: G:\MyDD1\work\UItest\sikuli\sikuli-ide.jar
+[debug (14-8-3 20:12:00)] SikuliX: 0: file:/G:/MyDD1/work/UItest/sikuli/sikuli-setup.jar
+[debug (14-8-3 20:12:00)] SikuliX: after adding to classpath
+[debug (14-8-3 20:12:00)] SikuliX: 0: file:/G:/MyDD1/work/UItest/sikuli/sikuli-setup.jar
+[debug (14-8-3 20:12:00)] SikuliX: 1: file:/G:/MyDD1/work/UItest/sikuli/sikuli-ide.jar
+[debug (14-8-3 20:12:00)] RunSetup: trying to run testSetup.sikuli using SikuliScript
+[debug (14-8-3 20:12:03)] SikuliX Jython Support Build: 1.0.1 12SEP2013160248
+[debug (14-8-3 20:12:04)] JythonScriptRunner: : executeScriptHeader: adding SikuliX Lib path to sys.path
+G:\MyDD1\work\UItest\sikuli\sikuli-setup.jar\Lib
+[debug (14-8-3 20:12:04)] Jython: sikuli: __init__: entering
+[debug (14-8-3 20:12:04)] Jython: sikuli: Sikuli: entering
+[debug (14-8-3 20:12:05)] Jython: sikuli: Sikuli: constants
+[debug (14-8-3 20:12:05)] Jython: sikuli: Sikuli: import Region
+[debug (14-8-3 20:12:05)] Jython: sikuli: Sikuli: import Screen
+[debug (14-8-3 20:12:05)] Jython: sikuli: Sikuli: Env.addHotkey
+[debug (14-8-3 20:12:05)] Jython: sikuli: Sikuli: import Match
+[debug (14-8-3 20:12:05)] Jython: sikuli: Sikuli: import Pattern
+[debug (14-8-3 20:12:05)] Jython: sikuli: Sikuli: import Location
+[debug (14-8-3 20:12:05)] Jython: sikuli: Sikuli: import ScreenUnion
+[debug (14-8-3 20:12:05)] Jython: sikuli: Sikuli: import Finder
+[debug (14-8-3 20:12:05)] ResourceLoaderBasic: loadLib: VisionProxy
+[debug (14-8-3 20:12:05)] ResourceLoaderBasic: loadLib: Found: VisionProxy
+[debug (14-8-3 20:12:06)] ResourceLoaderBasic: loadLib: Now loaded: VisionProxy
+[debug (14-8-3 20:12:06)] Jython: sikuli: Sikuli: import App
+[debug (14-8-3 20:12:06)] ResourceLoaderBasic: loadLib: Is already loaded: WinUtil
+[debug (14-8-3 20:12:06)] Screen: initScreens: basic initialization (1 Screen(s) found)
+[debug (14-8-3 20:12:06)] *** monitor configuration (primary: 0) ***
+[debug (14-8-3 20:12:06)] Screen 0: S(0)[0,0 1920x1080]
+[debug (14-8-3 20:12:06)] *** end monitor configuration ***
+[debug (14-8-3 20:12:06)] Jython: sikuli: Sikuli: import Key
+[debug (14-8-3 20:12:06)] Jython: sikuli: Sikuli: import from Basics
+[debug (14-8-3 20:12:06)] Jython: sikuli: Sikuli: import from compare
+[debug (14-8-3 20:12:06)] Jython: sikuli: Sikuli: init SikuliImporter
+[debug (14-8-3 20:12:06)] Jython: sikuli: Sikuli: import SikuliScript
+[debug (14-8-3 20:12:06)] Jython: init SCREEN as ()
+[debug (14-8-3 20:12:06)] Sikuli-Script startup: 3120
+[debug (14-8-3 20:12:15)] RunSetup: ... SikuliX Setup seems to have ended successfully ;-)
